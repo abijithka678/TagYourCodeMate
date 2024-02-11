@@ -28,7 +28,7 @@
 }
 .rigth p{
   margin: 40px;
-  font-family: cursive;
+  font-family: monospace;
   font-size: larger;
   
 
@@ -68,7 +68,7 @@
     
     float: left;
     margin: 60px;
-    font-family: cursive;
+    font-family: monospace;
     font-size: large;
       
 }
